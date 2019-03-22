@@ -1,0 +1,10 @@
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\bin\Debug\Сети Петри.exe.config
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\bin\Debug\Сети Петри.exe
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\bin\Debug\Сети Петри.pdb
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети Петри.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети_Петри.Form1.resources
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети_Петри.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети Петри.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети Петри.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети Петри.exe
+C:\Users\Михаил\source\repos\Сети Петри\Сети Петри\obj\Debug\Сети Петри.pdb
